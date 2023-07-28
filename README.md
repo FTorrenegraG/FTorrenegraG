@@ -1,6 +1,6 @@
 # Felix A Torrenegra Gamarra
 ## Senior Ruby on Rails Engineer | Colombia
-**Contact:** +57 (305) 796 8758 | Email: f.torrenegrag@gmail.com | [LinkedIn](https://www.linkedin.com/in/felix-a-torrenegra-gamarra/) | [CV](https://github.com/FTorrenegraG/FTorrenegraG/blob/aa3ef2ae0306ab5d8141e953b7c076c42443d19e/Felix_A_Torrenegra_Gamarra_-_Senior_Ruby_on_Rails_Engineer.pdf)
+**Contact:** +57 (305) 796 8758 | Email: f.torrenegrag@gmail.com | [LinkedIn](https://www.linkedin.com/in/felix-a-torrenegra-gamarra-46b80a123/) | [CV](https://github.com/FTorrenegraG/FTorrenegraG/blob/aa3ef2ae0306ab5d8141e953b7c076c42443d19e/Felix_A_Torrenegra_Gamarra_-_Senior_Ruby_on_Rails_Engineer.pdf)
 
 ### Profile:
 I am a highly skilled **Senior Ruby on Rails Engineer** with an Engineering Degree in Computer Engineering from Universidad del Norte. Native Spanish speaker with proficiency in English in a professional environment. I am passionate about sharing knowledge with co-workers and thrive on providing constructive feedback to enhance team performance. With several years of experience in professional environments, I excel in delivering robust and efficient software solutions, and I have a track record of successful integrations with external services. My dedication to excellence has resulted in the creation of strong administrative platforms that serve thousands of users. I am committed to continuous learning and staying up-to-date with the latest technologies in the industry.
