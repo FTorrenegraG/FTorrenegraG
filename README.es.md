@@ -2,7 +2,7 @@
 ## Senior Ruby on Rails Engineer | Colombia
 **Idioma / Language:** Español (este archivo) | [English](./README.md)
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/felix-a-t-46b80a123/)
-**Acceso Rápido:** [CV Web (ES)](https://ftorrenegrag.github.io/FTorrenegraG/cv/es/) | [CV Web (EN)](https://ftorrenegrag.github.io/FTorrenegraG/cv/en/)
+**Acceso Rápido:** [CV Web (ES)](https://ftorrenegrag.github.io/FTorrenegraG/cv/es/) | [CV Web (EN)](https://ftorrenegrag.github.io/FTorrenegraG/cv/en/) | [Formulario de contacto](https://forms.gle/b7iDE7fTMTki6ciy9)
 
 ### Perfil:
 Senior Ruby on Rails Engineer con más de 9 años de experiencia construyendo y escalando sistemas backend en producción. Me especializo en modernizar servicios legacy en Rails, mejorar confiabilidad y performance, y liderar la ejecución técnica con equipos multifuncionales. Combino desarrollo de aplicaciones con responsabilidades prácticas de DevOps en entornos basados en Heroku, siempre con foco en mantenibilidad, calidad de código e impacto en el negocio.
