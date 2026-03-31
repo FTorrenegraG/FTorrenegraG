@@ -1,7 +1,7 @@
 # Felix A Torrenegra Gamarra
 ## Senior Ruby on Rails Engineer | Colombia
 **Idioma / Language:** Español (este archivo) | [English](./README.md)
-**Contacto:** [redacted-phone] | Email: [redacted-email] | [LinkedIn](https://www.linkedin.com/in/felix-a-t-46b80a123/)
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/felix-a-t-46b80a123/)
 **Acceso Rápido:** [CV Web (ES)](https://ftorrenegrag.github.io/FTorrenegraG/cv/es/) | [CV Web (EN)](https://ftorrenegrag.github.io/FTorrenegraG/cv/en/)
 
 ### Perfil:
